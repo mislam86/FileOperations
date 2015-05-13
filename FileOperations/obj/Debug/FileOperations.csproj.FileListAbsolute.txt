@@ -1,0 +1,9 @@
+E:\103407\02052015\FileOperations\FileOperations\bin\Debug\FileOperations.exe.config
+E:\103407\02052015\FileOperations\FileOperations\bin\Debug\FileOperations.exe
+E:\103407\02052015\FileOperations\FileOperations\bin\Debug\FileOperations.pdb
+E:\103407\02052015\FileOperations\FileOperations\obj\Debug\FileOperations.csprojResolveAssemblyReference.cache
+E:\103407\02052015\FileOperations\FileOperations\obj\Debug\FileOperations.Form1.resources
+E:\103407\02052015\FileOperations\FileOperations\obj\Debug\FileOperations.Properties.Resources.resources
+E:\103407\02052015\FileOperations\FileOperations\obj\Debug\FileOperations.csproj.GenerateResource.Cache
+E:\103407\02052015\FileOperations\FileOperations\obj\Debug\FileOperations.exe
+E:\103407\02052015\FileOperations\FileOperations\obj\Debug\FileOperations.pdb
